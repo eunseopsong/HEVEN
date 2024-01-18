@@ -1,2 +1,2 @@
 # HEVEN
-HEVEN first repositary
+HEVEN first repository
